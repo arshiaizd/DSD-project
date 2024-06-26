@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\Desktop\Uni\DSD\project\verilog
+vPARKING
+Z1 !s100 lWMI>07WG1ILIDo:GJCW61
+Z2 I?9MQDC>R8fJUj_83I:5:A1
+Z3 VSQEcj8m06Fl3icamba6<o0
+Z4 dC:\Users\ASUS\Desktop\Uni\DSD\project\verilog
+Z5 w1719341624
+Z6 8C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/PARKING.v
+Z7 FC:/Users/ASUS/Desktop/Uni/DSD/project/verilog/PARKING.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/PARKING.v|
+Z10 o-work work -O0
+Z11 n@p@a@r@k@i@n@g
+!i10b 1
+!s85 0
+Z12 !s108 1719349498.708000
+Z13 !s107 C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/PARKING.v|
+!s101 -O0
+vTB
+!i10b 1
+!s100 R5`^1LG;Q;Q>8o8LgB:`G1
+IoOVJ8GbcLQN`kz]Tf;W_:0
+Z14 Vc<=32996OT2f`M7E_UhYX1
+R4
+w1719349309
+Z15 8C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/TB.v
+Z16 FC:/Users/ASUS/Desktop/Uni/DSD/project/verilog/TB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719349498.747000
+!s107 C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/TB.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/Uni/DSD/project/verilog/TB.v|
+!s101 -O0
+R10
+n@t@b

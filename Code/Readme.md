@@ -1,7 +1,7 @@
 # Code
 
 ## main part
-  the main part is added in PARKING.v
+  the main code is added in PARKING.v
 
 ## test bench
   the test bench is added in TB.v

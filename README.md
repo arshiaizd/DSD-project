@@ -8,7 +8,7 @@ in this repository we implemented a simulator for sharif parking and analize the
 - Quartus
 - Verilog Knowledge
 
-## Implementation Derails
+## Implementation Details
 in this detail we used verilog language and implement a parkinglot using dataflow modeling and behavioral design patterns and then write a test bench that covers all the corner cases and fully shows the abilities of the program. after that we used Quartus for synthesis and it analisys. for more details and better understanding of the implementation chechout the report file in Document folder
 
 ## How to run
